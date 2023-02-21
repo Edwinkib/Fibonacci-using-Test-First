@@ -1,0 +1,24 @@
+{
+    "name": "fibonacci",
+    "version": "1.0.0",
+    "description": "",
+    "main": "test.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha || true"
+       
+    },
+    "keywords": [],
+    "author": "Niwaha Edwin kiberu ",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/cli": "^7.21.0",
+        "@babel/core": "^7.21.0",
+        "@babel/preset-env": "^7.20.2",
+        "chai": "^4.3.6",
+        "eslint": "^8.23.0",
+        "mocha": "^10.0.0"
+    }
+}
