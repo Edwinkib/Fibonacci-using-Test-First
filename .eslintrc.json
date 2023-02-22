@@ -3,7 +3,8 @@
     "env": {
         "browser": true,
         "es2021": true,
-        "mocha": true
+        "mocha": true,
+        "type": true
     },
     "extends": [
         "plugin:vue/vue3-essential",
@@ -17,6 +18,7 @@
     },
     "plugins": [
         "vue"
+        
     ],
     "rules": {
     }
